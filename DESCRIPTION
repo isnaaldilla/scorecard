@@ -1,0 +1,10 @@
+Package: Scorecard
+Type: Package
+Title: Scorecard Development
+Version: 0.1
+Date: 2016-04-01
+Author: idx
+Maintainer: Who to complain to <yourfault@somewhere.net>
+Description: step by step to measure predictive characteristic
+License: What license is it under?
+LazyData: TRUE
